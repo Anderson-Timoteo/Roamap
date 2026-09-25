@@ -30,4 +30,4 @@ Especialista em Automação com IA
 
 ## Objetivo
 
-Conseguir uma vaga internacional em até 3 anos.
+Ser Melhor do que ontem
