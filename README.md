@@ -1,38 +1,33 @@
-# 🇪🇺 Roadmap Europa
-
-## 👋 Sobre mim
+# Roadmap
 
 Meu nome é Anderson.
 
-Atualmente trabalho como Assistente Administrativo, utilizando Excel e Power BI.
+Sou Analista Sênior De Melhoria Contínua.
 
-Meu objetivo é me tornar Analista de Dados / Especialista em Automação com IA e conquistar uma oportunidade de trabalho na Europa.
+Especialista em Automação com IA 
 
 ---
 
-## 📚 Tecnologias que estou aprendendo
+##  Estou aprendendo
 
 - [x] Git
 - [x] GitHub
-- [ ] SQL
+- [x] SQL
 - [x] Power BI Avançado
-- [ ] Python
-- [ ] APIs
-- [ ] Inteligência Artificial
-- [ ] Azure
+- [x] Python
+- [x] APIs
+- [X] Inteligência Artificial
+- [x] Azure
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
-- [ ] Dashboard Financeiro
-- [ ] Dashboard RH
-- [ ] Automação de Excel
-- [ ] Smart Office
-- [ ] Chatbot com IA
+- [x] Site de Melhoria Continua
+- [x] Depurador de divergencias com python
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Conseguir uma vaga internacional em até 3 anos.
